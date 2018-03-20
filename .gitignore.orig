@@ -1,11 +1,22 @@
+<<<<<<< HEAD
+=======
+# IntelliJ
+*.iml
+.idea/
+
 # MacOS X
 .DS_Store
 
+>>>>>>> a demo for MaterialWebview
 # Built application files
 *.apk
 *.ap_
 
+<<<<<<< HEAD
 # Files for the ART/Dalvik VM
+=======
+# Files for the Dalvik VM
+>>>>>>> a demo for MaterialWebview
 *.dex
 
 # Java class files
@@ -14,7 +25,13 @@
 # Generated files
 bin/
 gen/
+<<<<<<< HEAD
 out/
+
+# Gradle files
+.gradle/
+build/
+=======
 
 # Gradle files
 build
@@ -22,6 +39,7 @@ build
 .gradle/
 build/
 /*/build/
+>>>>>>> a demo for MaterialWebview
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -32,6 +50,7 @@ proguard/
 # Log Files
 *.log
 
+<<<<<<< HEAD
 # Android Studio Navigation editor temp files
 .navigation/
 
@@ -40,7 +59,6 @@ captures/
 
 # Intellij
 *.iml
-.idea/
 .idea/workspace.xml
 .idea/tasks.xml
 .idea/gradle.xml
@@ -60,8 +78,10 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
-
+=======
 # Eclipse project files
 .project
 .settings/
 .classpath
+.DS_Store
+>>>>>>> a demo for MaterialWebview

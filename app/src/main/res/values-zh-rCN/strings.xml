@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Material Webview</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">设置</string>
+
+    <string name="webview_error_title">找不到服务器</string>
+    <string name="webview_error_info">firefox无法找到名为%s的服务器</string>
+    <string name="webview_error_description">检查网址是否输入正确</string>
+    <string name="webview_error_internet">网络已断开</string>
+    <string name="webview_error_retry_wifi">启用wifi</string>
+    <string name="webview_error_retry">重试</string>
+</resources>
